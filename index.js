@@ -1,3 +1,5 @@
 var customerName;
 
-function 
+function upperCaseCustomerName(customerName){
+  bla;
+}
